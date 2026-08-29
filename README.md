@@ -58,5 +58,3 @@ Aplikasi akan berjalan secara lokal. Buka tautan yang muncul di terminal (biasan
 ---
 
 *Dibuat sebagai bagian dari pembelajaran Web Development frontend berbasis Vue.js.*
-
-```
