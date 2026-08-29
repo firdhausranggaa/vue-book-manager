@@ -1,38 +1,62 @@
-# vue-book-manager
+# 📚 Vue Book Manager
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplikasi manajemen buku sederhana berbasis **Vue 3** dan **Vite**. Proyek ini dibangun untuk mendemonstrasikan implementasi fundamental Vue.js secara terstruktur, dilengkapi dengan antarmuka modern menggunakan efek *Glassmorphism* dan animasi *background* gradien.
 
-## Recommended IDE Setup
+## ✨ Fitur Utama
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+* **Vue 3 Composition & Options API:** Struktur komponen modern dan responsif.
+* **Vue Router 4:** Manajemen rute dan navigasi halaman tunggal (*Single Page Application*).
+* **Vuex 4:** Sistem *State Management* terpusat untuk mengelola data aplikasi.
+* **Axios (Simulated):** Pengelolaan *HTTP Request* untuk simulasi interaksi ke *backend* (API).
+* **Validasi Form:** Memastikan pengguna tidak mengirimkan form dengan input yang kosong atau tidak sesuai.
+* **UI/UX Modern:** 
+  * Desain antarmuka *Glassmorphism* (kaca transparan).
+  * Animasi gradien latar belakang (*CSS Keyframes*).
+  * Transisi notifikasi yang halus menggunakan komponen `<Transition>`.
 
-## Recommended Browser Setup
+## 🛠️ Teknologi yang Digunakan
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+* [Vue.js 3](https://vuejs.org/)
+* [Vite](https://vitejs.dev/)
+* [Vue Router](https://router.vuejs.org/)
+* [Vuex](https://vuex.vuejs.org/)
+* [Axios](https://axios-http.com/)
+* CSS3 (Vanilla)
 
-## Customize configuration
+## 🚀 Panduan Instalasi (Local Development)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda:
 
-## Project Setup
+1. **Clone Repositori:**
+   Buka terminal dan jalankan perintah clone berikut:
+   ```bash
+   git clone [https://github.com/firdhausranggaa/vue-book-manager.git](https://github.com/firdhausranggaa/vue-book-manager.git)
 
-```sh
+```
+
+2. **Masuk ke Direktori Proyek:**
+```bash
+cd vue-book-manager
+
+```
+
+3. **Instal Dependensi:**
+Pastikan Node.js sudah terinstal, lalu jalankan:
+```bash
 npm install
+
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+4. **Jalankan Server Lokal:**
+```bash
 npm run dev
+
 ```
 
-### Compile and Minify for Production
+Aplikasi akan berjalan secara lokal. Buka tautan yang muncul di terminal (biasanya `http://localhost:5173`) melalui browser Anda.
 
-```sh
-npm run build
+---
+
+*Dibuat sebagai bagian dari pembelajaran Web Development frontend berbasis Vue.js.*
+
 ```
