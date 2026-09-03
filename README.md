@@ -28,9 +28,9 @@ Aplikasi manajemen buku sederhana berbasis **Vue 3** dan **Vite**. Proyek ini di
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda:
 
 1. **Clone Repositori:**
-   Buka terminal dan jalankan perintah clone berikut:
-   ```bash
-   git clone [https://github.com/firdhausranggaa/vue-book-manager.git](https://github.com/firdhausranggaa/vue-book-manager.git)
+Buka terminal dan jalankan perintah clone berikut:
+```bash
+   git clone https://github.com/firdhausranggaa/vue-book-manager.git
 
 ```
 
