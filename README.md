@@ -30,7 +30,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda:
 1. **Clone Repositori:**
 Buka terminal dan jalankan perintah clone berikut:
 ```bash
-   git clone https://github.com/firdhausranggaa/vue-book-manager.git
+git clone https://github.com/firdhausranggaa/vue-book-manager.git
 
 ```
 
